@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MasterBlaster215
-- 👀 I’m interested in ... Offsec
-- 🌱 I’m currently learning ... Security+
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in GRC
+- 🌱 I’m currently learning CISA
+- 💞️ I’m looking to collaborate on Cybersecurity Tools
+- 📫 How to reach me: dont!
 
 <!---
 MasterBlaster215/MasterBlaster215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
